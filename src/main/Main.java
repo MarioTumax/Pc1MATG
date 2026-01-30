@@ -9,6 +9,9 @@ public class Main {
         System.out.println("en crear");
         System.out.println("repositorio");
         System.out.println("usando GIT");
+        System.out.println("por medio de");
+        System.out.println("de la consola de");
+        System.out.println("gitbash");
     }
     
 }
